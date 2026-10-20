@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "GVECF: Neural Graph Collaborative Filtering Using Variational Inference"
+authors:
+  - family-names: "Fazeli Dehkordi"
+    given-names: "Narges Sadat"
+  - family-names: "Zare"
+    given-names: "Hadi"
+  - family-names: "Moradi"
+    given-names: "Parham"
+  - family-names: "Jalili"
+    given-names: "Mahdi"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Neural Graph Collaborative Filtering Using Variational Inference"
+  authors:
+    - family-names: "Fazeli Dehkordi"
+      given-names: "Narges Sadat"
+    - family-names: "Zare"
+      given-names: "Hadi"
+    - family-names: "Moradi"
+      given-names: "Parham"
+    - family-names: "Jalili"
+      given-names: "Mahdi"
+  journal: "arXiv preprint arXiv:2311.11824"
+  year: 2023
+  url: "https://arxiv.org/abs/2311.11824"
